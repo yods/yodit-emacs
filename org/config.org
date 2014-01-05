@@ -1,4 +1,4 @@
-Whole sale plagarism of Bruce's [[https://github.com/otfrom/otfrom-org-emacs][emacs config]]
+Wholesale plagarism of Bruce's [[https://github.com/otfrom/otfrom-org-emacs][emacs config]]
 
 * Helpers
 
