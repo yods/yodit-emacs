@@ -520,7 +520,7 @@ I love tramp for all my remote debugging
     like #ukodi and ##cleanweb. And ones for Mastodon C like #kixi.
     
     #+BEGIN_SRC emacs-lisp
-      (setq erc-autojoin-channels-alist '(("freenode.net" "##cleanweb" "#kixi" "#theodi" "#ldnclj")))
+      (setq erc-autojoin-channels-alist '(("freenode.net" "#ldnclj")))
     #+END_SRC
 
 *** Credentials
